@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Paarth
+ *
+ */
+module BarberProblem {
+}
